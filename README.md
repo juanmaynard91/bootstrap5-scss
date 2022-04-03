@@ -1,4 +1,4 @@
-DESCRIPCION: Ejercicio de diseño responsive hecho con Bootstrap 5 y Sass 
+DESCRIPCION: Ejercicio de diseño responsivo hecho con Bootstrap 5 y Sass 
 
 LINK: https://juanmaynard91.github.io/bootstrap5-scss/
 
